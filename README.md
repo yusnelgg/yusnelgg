@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2w4cTFjNThoNXJoZWwwaTA5Y3FvODNvOWh0c3ZqM2loMHp1M2p0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="300"/>
+  <img src="./giphy.gif" width="300"/>
   <p>
   Hi, I'm Yusnel 👨‍💻
   </p>
