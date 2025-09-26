@@ -9,9 +9,6 @@
 
 - 🔧 I'm a backend developer focused on **clean code** and real-world architectures.
 - ⚙️ I work mainly with **C#**, **Go**, and **Node.js (TypeScript)**.
-- 🧰 I also use Python for scripts and automation.
-- 📈 Currently building [Cashly](https://github.com/yusnelgg/cashly-api), a personal finance API.
-- 🌍 My goal: build things that solve real problems and help people.
 
 ---
 
@@ -27,23 +24,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-### 📦 Projects I'm proud of
-
-- 🔐 [Cashly API](https://github.com/yusnelgg/cashly-backend) — Finance manager built in Node.js with JWT, Prisma and SQLite.
-- ⌨️ [Ttyper](https://github.com/yusnelgg/ttyper) — MonkeyType-like speed typing test in terminal, built with Python.
-
----
-
-### ⚡ Goals
-
-- 🌎 Work remotely as a backend developer
-- 🚀 Build tools that help people and improve productivity
-- 🧠 Keep learning and pushing my limits
-
----
-
-<p align="center">
-  <em>"Tech is freedom. Coding is power."</em> – Yusnel
-</p>
-
