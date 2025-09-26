@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Yusnel 👨‍💻</h1>
+<h1 align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2w4cTFjNThoNXJoZWwwaTA5Y3FvODNvOWh0c3ZqM2loMHp1M2p0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="60" style="vertical-align: middle;"/>
+  Hi, I'm Yusnel 👨‍💻
+</h1>
+
 <p align="center">
   🇨🇺 Cuban living in Uruguay | 💻 Backend Lover | ⚙️ Building with C#, Go & TypeScript
 </p>
