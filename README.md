@@ -14,13 +14,14 @@
 ### 🧠 About me
 
 - 🔧 I'm a backend developer focused on **clean code** and real-world architectures.
-- ⚙️ I work mainly with **C#**, **Go**, and **Node.js (TypeScript)**.
+- ⚙️ I work mainly with **Go**, **Flutter** and **Node.js (TypeScript)**.
 
 ---
 
 ### 🚀 Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
