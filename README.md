@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  🇨🇺 Cuban living in Uruguay | 💻 Backend Lover | ⚙️ Building with C#, Go & TypeScript
+  🇨🇺 Cuban living in Uruguay | 💻 Backend Lover | ⚙️ Building with Go, Flutter & TypeScript
 </p>
 
 ---
