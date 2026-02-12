@@ -17,5 +17,5 @@ Building with **Go** • **JavaScript** • **REST APIs** • **Clean Architectu
 
 <div align="center">
 <a href="https://github.com/yusnelgg"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats-tau-nine-81.vercel.app/api?username=yusnelgg&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
-<a href="https://github.com/yusnelgg"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=yusnelgg&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
+<a href="https://github.com/yusnelgg"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=yusnelgg&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a&cache_seconds=0"/></a>
 </div>
