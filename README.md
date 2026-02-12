@@ -1,33 +1,21 @@
-<h1 align="center">
-  <img src="./giphy.gif" width="300"/>
-  <p>
-  Hi, I'm Yusnel 👨‍💻
-  </p>
-</h1>
+# 👋 Hi, I'm Yusnel
 
-<p align="center">
-  🇨🇺 Cuban living in Uruguay | 💻 Backend Lover | ⚙️ Building with Go, Flutter & TypeScript
-</p>
+**Backend Developer** from 🇺🇾 Uruguay
+
+Building with **Go** • **JavaScript** • **REST APIs** • **Clean Architecture**
 
 ---
 
-### 🧠 About me
+### 🛠️ Technologies
 
-- 🔧 I'm a backend developer focused on **clean code** and real-world architectures.
-- ⚙️ I work mainly with **Go**, **Flutter** and **Node.js (TypeScript)**.
-
----
-
-### 🚀 Tech Stack
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+
+<div align="center">
+<a href="https://github.com/yusnelgg"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats-tau-nine-81.vercel.app/api?username=yusnelgg&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
+<a href="https://github.com/yusnelgg"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=yusnelgg&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
+</div>
