@@ -6,8 +6,6 @@
 **building fintech systems that don't break at 3am 🚀**
 Go (Fiber/Gin/gRPC) · Kotlin · PostgreSQL/Redis · Docker/K8s · Clean Architecture
 
-text
-
 [![Kreedit](https://github-readme-stats.vercel.app/api/pin/?username=yusnelgg&repo=kreedit&theme=catppuccin_mocha)](https://github.com/yusnelgg/Kreedit)
 [![Scribe](https://github-readme-stats.vercel.app/api/pin/?username=yusnelgg&repo=Scribe&theme=catppuccin_mocha)](https://github.com/yusnelgg/Scribe)
 
