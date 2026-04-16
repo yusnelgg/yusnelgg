@@ -1,24 +1,29 @@
-# yusnelgg
+# 🚀 Yusnel | Go Backend Engineer
+**Montevideo, Uruguay | LATAM Remote**
 
-backend engineer · go · javascript · postgresql · docker
+![Go Backend](https://img.shields.io/badge/Go-Fiber_gRPC-DarkBlue?style=flat&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-K8s-blue?style=flat&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Red?style=flat&logo=postgresql&logoColor=white)
 
----
+**building fintech systems that don't break at 3am 🚀**
+Go (Fiber/Gin/gRPC) · Kotlin · PostgreSQL/Redis · Docker/K8s · Clean Architecture
 
-building systems that don't break at 3am.  
-clean architecture, boring tech, reliable outcomes.
+text
 
-```
-REST APIs  ·  Clean Architecture  ·  PostgreSQL  ·  Docker
-```
-
----
-
-[![top langs](https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=yusnelgg&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a&cache_seconds=0)](https://github.com/yusnelgg)
+[![Kreedit](https://github-readme-stats.vercel.app/api/pin/?username=yusnelgg&repo=kreedit&theme=catppuccin_mocha)](https://github.com/yusnelgg/Kreedit)
+[![Scribe](https://github-readme-stats.vercel.app/api/pin/?username=yusnelgg&repo=Scribe&theme=catppuccin_mocha)](https://github.com/yusnelgg/Scribe)
 
 ---
 
-*less noise, more signal.*
+## 🔥 Featured Projects
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=18&pause=1000&color=4FC3F7&center=true&vCenter=true&width=435&lines=Backend+Engineer;Go+%C2%B7+JavaScript+%C2%B7+PostgreSQL;Clean+Architecture+%7C+REST+APIs;Systems+that+scale+to+orbit+%F0%9F%9A%80" />
-</p>
+**Kreedit** ⭐ *Real-time credit scoring (<500ms)*  
+Production fintech Go engine: configurable rules, explainable AI, audit trails  
+`github.com/yusnelgg/Kreedit`
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusnelgg&layout=compact&theme=catppuccin_mocha)](https://github.com/yusnelgg)
+
+---
+
+**📩 Hiring?** Go Backend | Kotlin | Fintech LATAM  
+**💼** yusnelgdev@gmail.com | **🌐** linkedin.com/in/yusnelg/
