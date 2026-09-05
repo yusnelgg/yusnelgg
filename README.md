@@ -1,27 +1,48 @@
-# 🚀 Yusnel | Go Backend Engineer
-**Montevideo, Uruguay | LATAM Remote**
+# Hey, I'm Yusnel 👋
 
-![Go Backend](https://img.shields.io/badge/Go-Fiber_gRPC-DarkBlue?style=flat&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-K8s-blue?style=flat&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Red?style=flat&logo=postgresql&logoColor=white)
+**Backend developer from Uruguay 🇺🇾**
 
-**building fintech systems that don't break at 3am 🚀**
-Go (Fiber/Gin/gRPC) · Kotlin · PostgreSQL/Redis · Docker/K8s · Clean Architecture
+I mainly work with **Go** building backend and web applications, but I also work with **C#**, **C++**, and **Unity**.
 
-[![Kreedit](https://github-readme-stats.vercel.app/api/pin/?username=yusnelgg&repo=kreedit&theme=catppuccin_mocha)](https://github.com/yusnelgg/Kreedit)
-[![Scribe](https://github-readme-stats.vercel.app/api/pin/?username=yusnelgg&repo=Scribe&theme=catppuccin_mocha)](https://github.com/yusnelgg/Scribe)
+I like building things, messing around with systems, and learning by actually making stuff.
+
+### 🛠️ What I work with
+
+**Backend & Web**
+
+* Go — Fiber, Gin, gRPC
+* C# — .NET / ASP.NET
+* TypeScript / JavaScript
+* PostgreSQL / Redis
+* REST APIs
+* Docker
+
+**Game Development**
+
+* C++
+* C#
+* Unity
+
+**Other**
+
+* Linux
+* Git
+* Clean Architecture
+* Distributed systems
+
+### 🚀 Some things I've worked on
+
+[![Kreedit](https://github-readme-stats.vercel.app/api/pin/?username=yusnelgg\&repo=kreedit\&theme=catppuccin_mocha)](https://github.com/yusnelgg/Kreedit)
+
+[![Scribe](https://github-readme-stats.vercel.app/api/pin/?username=yusnelgg\&repo=Scribe\&theme=catppuccin_mocha)](https://github.com/yusnelgg/Scribe)
+
+I've also worked on private/personal projects involving **C++, C# and Unity**, although most of that work isn't public.
+
+### 📊 GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusnelgg\&layout=compact\&theme=catppuccin_mocha)](https://github.com/yusnelgg)
 
 ---
 
-## 🔥 Featured Projects
-
-**Kreedit** ⭐ *Real-time credit scoring (<500ms)*  
-Production fintech Go engine: configurable rules, explainable AI, audit trails  
-`github.com/yusnelgg/Kreedit`
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusnelgg&layout=compact&theme=catppuccin_mocha)](https://github.com/yusnelgg)
-
----
-
-**📩 Hiring?** Go Backend | Kotlin | Fintech LATAM  
-**💼** yusnelgdev@gmail.com | **🌐** linkedin.com/in/yusnelg/
+📫 **Email:** [yusnelgdev@gmail.com](mailto:yusnelgdev@gmail.com)
+🔗 **LinkedIn:** linkedin.com/in/yusnelg/
